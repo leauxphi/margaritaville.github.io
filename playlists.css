@@ -1,0 +1,94 @@
+body {
+    background-color: rgb(255, 218, 249);
+    background-image: url('http://dl7.glitter-graphics.net/pub/3008/3008707b03lhgyry9.gif');
+    background-attachment: fixed;
+    background-repeat: repeat;}
+
+h1 {
+    font-family: 'Macondo Swash Caps', cursive;
+    color: rgb(253, 251, 236);
+    margin-bottom: px;
+    margin-top: 50px;
+    background-image: url(https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Ribbons-and-Banners-PNG/Banner_Transparent_PNG_Clip_Art_Image.png?m=1507172115);
+    background-repeat: no-repeat;
+    background-size: 450px;
+    background-position: center;
+    display: block;
+    align-items: center;
+    margin-top: 30px;
+    padding-top: 70px;
+    padding-bottom: 125px;
+    text-align: center;
+    font-style: oblique;
+
+}
+
+#album {
+    border-color: mediumvioletred;
+    border-width: 30px;
+    border-style: outset;
+    width: 300px;
+    height: 380px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+#podcast {
+    border-color: mediumvioletred;
+    border-width: 30px;
+    border-style: outset;
+    border-radius: 14px;
+    width: 300px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#ballerina {
+    display: block;
+    height: 400px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+#cowgirl {
+    display: block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.mediatitle {
+    font-family: 'Macondo Swash Caps', cursive;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border-left: 40px;
+    font-size: 50px;
+    display: block;
+    border-color: transparent;
+    fill: white;
+    fill-opacity: 100%;
+    margin-bottom: 30px;
+}
+
+p {
+    font-family: 'Macondo Swash Caps', cursive;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border-left: 40px;
+    font-size: 30px;
+    display: block;
+    border-color: transparent;
+    fill: white;
+    fill-opacity: 100%;
+    margin-bottom: 30px;
+}

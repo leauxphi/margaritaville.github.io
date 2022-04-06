@@ -1,0 +1,107 @@
+body { 
+    background-color: #ffe2ff;
+    overflow: scroll;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    
+}
+
+h2 { 
+    font-size: 30px;
+    text-align: center;
+}
+
+#title {
+    color: rgb(255, 0, 43);
+    text-align: center;
+    display: block;
+    font-weight: bolder;
+    font-family: 'Fleur De Leah', cursive;
+    font-size: 90px;
+    background-image: url(https://i.pinimg.com/564x/97/f0/c8/97f0c844d2adeca18bb182e7a3529166.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-size: 400px;
+}
+
+#career {
+    font-family: 'Akaya Telivigala', cursive;
+    column-width: 300px;
+}
+
+#playlists {
+    font-family: 'Akaya Telivigala', cursive;
+    column-width: 250px;
+    
+}
+
+#videosilike {
+    font-family: 'Akaya Telivigala', cursive;
+    column-width: 250px;
+
+}
+
+#favmovies {
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+
+#leauxphi{
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+#tvshows {
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+#whatreading {
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+#favplaces {
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+#ppliadmire {
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+#doodles {
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+#socials {
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+#otherlinks {
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+table {
+    align: center;
+    padding-left: 50px;
+    display: block;
+    align-items: center;
+    columns: 2;
+}
+
+#playlistlink { 
+    text-decoration: none;
+    color: black;
+    
+}
+
+#kiss {
+    
+}

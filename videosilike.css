@@ -1,0 +1,32 @@
+body {
+    background-image: url('http://dl8.glitter-graphics.net/pub/2998/2998138rm6h5tv8gc.gif');
+    background-attachment: fixed;
+    background-repeat: repeat;
+    
+    }
+
+h1 {
+    font-family: 'Macondo Swash Caps', cursive;
+    color:rgb(231, 245, 248);
+    background-image: url(https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Ribbons-and-Banners-PNG/Red_Banner_Clip_Art_PNG_Image-501258894.png?m=1530663004);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: center;
+    display: block;
+    align-items: center;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 60px;
+}
+
+.vid {
+    display: block;
+    align-items: center;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+
+}
